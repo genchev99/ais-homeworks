@@ -13,5 +13,4 @@ _start:
 
     xor ecx, ecx
     mov edx, ecx
-    
     int 0x80
